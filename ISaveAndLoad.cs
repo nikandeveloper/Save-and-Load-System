@@ -1,7 +1,5 @@
-﻿using System;
+geishhttps://gamedevelopment.tutsplus.com/tutorials/how-to-save-and-load-your-players-progress-in-unity--cms-20934
 
-public interface ISaveAndLoad
-{
-	void Save(int indexToSave);
-	void Load(int indexToLoad);
-}
+
+
+Learn
